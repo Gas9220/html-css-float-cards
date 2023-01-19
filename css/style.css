@@ -28,11 +28,7 @@ body {
 
 .header {
     padding: 0 10px 10px 10px;
-}
-
-p {
-    background-color: lightcoral;
-    
+    font-family: 'Kanit', sans-serif;
 }
 
 .section-title {
@@ -65,7 +61,5 @@ p {
 
 .img {
     width: 100%;
-    min-height: 80px;
-    min-width: 80px;
     display: block;
 }
